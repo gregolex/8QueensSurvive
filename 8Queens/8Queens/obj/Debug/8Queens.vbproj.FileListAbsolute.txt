@@ -1,0 +1,12 @@
+C:\Users\admin\source\repos\8Queens\8Queens\bin\Debug\8Queens.exe.config
+C:\Users\admin\source\repos\8Queens\8Queens\bin\Debug\8Queens.exe
+C:\Users\admin\source\repos\8Queens\8Queens\bin\Debug\8Queens.pdb
+C:\Users\admin\source\repos\8Queens\8Queens\bin\Debug\8Queens.xml
+C:\Users\admin\source\repos\8Queens\8Queens\obj\Debug\8Queens.vbprojAssemblyReference.cache
+C:\Users\admin\source\repos\8Queens\8Queens\obj\Debug\_8Queens.Form1.resources
+C:\Users\admin\source\repos\8Queens\8Queens\obj\Debug\_8Queens.Resources.resources
+C:\Users\admin\source\repos\8Queens\8Queens\obj\Debug\8Queens.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\8Queens\8Queens\obj\Debug\8Queens.exe
+C:\Users\admin\source\repos\8Queens\8Queens\obj\Debug\8Queens.xml
+C:\Users\admin\source\repos\8Queens\8Queens\obj\Debug\8Queens.pdb
+C:\Users\admin\source\repos\8Queens\8Queens\obj\Debug\8Queens.vbproj.CoreCompileInputs.cache
